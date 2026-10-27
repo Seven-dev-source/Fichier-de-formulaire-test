@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    font-family: Times New Roman;
+    font-size: 2.5rem;
+    padding: 10px 450px;
+    background-color: rgb(1, 1, 55);
+    color: white;
+}
+
+marquee{
+    color: white;
+    background-color: black;
+}
+
+.FORM-1{
+    padding: 50px 450px;
+}
+
+.FORM-1 label{
+    display: block;
+    margin-bottom: 0px;
+    font-family: Times New Roman;
+    font-size: 25px;
+}
+
+.FORM-1 input{
+    width: 350px;
+    height: 25px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.FORM-1 p{
+    margin-bottom: 15px;
+}
+
+.send{
+    font-family: Times New Roman;
+    background-color: rgb(155, 154, 154);
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 1rem;
+    
+}
